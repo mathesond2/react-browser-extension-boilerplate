@@ -1,5 +1,5 @@
 # Browser Extension
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with some minor modifications for handling `node_modules` and build output paths via [Craco](https://www.npmjs.com/package/@craco/craco).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with some minor modifications for handling build output paths via [Craco](https://www.npmjs.com/package/@craco/craco).
 
 How this was built:
 1. add create-react-app with TS template
